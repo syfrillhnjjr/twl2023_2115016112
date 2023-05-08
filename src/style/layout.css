@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #206A5D;
+    padding: 0px;
+    color: #fff;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav li {
+    margin-right: 50px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: none;
+    color: #BFDCAE;
+
+  }
